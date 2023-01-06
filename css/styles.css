@@ -438,7 +438,7 @@ form > button{
     padding: 6rem 0;
     display: flex;
     flex-direction: column;
-    background-image: url(/assets/paginawebservicios-min.jpg);
+    background-image: url(../assets/paginawebservicios-min.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left center;
@@ -501,7 +501,7 @@ form > button{
 .planes-web-section{
     margin-top: 30rem;
     display: flex;
-    background-image: url(/assets/signos-connect-web.png);
+    background-image: url(../assets/signos-connect-web.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left center;
@@ -809,7 +809,7 @@ form > button{
 }
 
 .nosotros-hero{
-    background-image: url(/assets/23anos-banner.jpg);
+    background-image: url(../assets/23anos-banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -863,7 +863,7 @@ form > button{
 }
 
 .nosotros-versiculo{
-    background-image: url(/assets/versiculo-bg.png);
+    background-image: url(../assets/versiculo-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
@@ -1481,7 +1481,7 @@ form > button{
 }
 
 .nosotros-versiculo{
-    background-image: url(/assets/versiculo-bg.png);
+    background-image: url(../assets/versiculo-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left center;
@@ -2088,7 +2088,7 @@ form > button{
 }
 
 .nosotros-versiculo{
-    background-image: url(/assets/versiculo-bg.png);
+    background-image: url(../assets/versiculo-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left center;
@@ -2206,7 +2206,7 @@ form > button{
 }
 
 .nosotros-versiculo{
-    background-image: url(/assets/versiculo-bg.png);
+    background-image: url(../assets/versiculo-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 88% center;
@@ -2689,7 +2689,7 @@ form > button{
     padding: 6rem 0;
     display: flex;
     flex-direction: column;
-    background-image: url(/assets/paginawebservicios-min.jpg);
+    background-image: url(../assets/paginawebservicios-min.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left center;
@@ -2760,7 +2760,7 @@ form > button{
 .planes-web-section{
     margin-top: 30rem;
     display: flex;
-    background-image: url(/assets/signos-connect-web.png);
+    background-image: url(../assets/signos-connect-web.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left center;
@@ -3082,7 +3082,7 @@ form > button{
 }
 
 .nosotros-hero{
-    background-image: url(/assets/23anos-banner.jpg);
+    background-image: url(../assets/23anos-banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -3138,7 +3138,7 @@ form > button{
 }
 
 .nosotros-versiculo{
-    background-image: url(/assets/versiculo-bg.png);
+    background-image: url(../assets/versiculo-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right center;
