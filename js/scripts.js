@@ -1,10 +1,18 @@
 const togglemenuElement = document.getElementById('nav-toggle');
 const mainnavbarElement = document.getElementById('nav-menu');
+const navElement = document.getElementById('nav');
 const navEl = document.querySelector('header');
 
 togglemenuElement.addEventListener('click', () => {
   mainnavbarElement.classList.toggle('nav-menu-show');
 });
+
+togglemenuElement.addEventListener('click', () => {
+    navElement.classList.toggle('nav-menu-show');
+  });
+
+
+
 
 window.addEventListener('scroll' , () => {
     if (window.scrollY > 10) {
